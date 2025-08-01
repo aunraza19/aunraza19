@@ -1,5 +1,10 @@
 <!-- Intro Header -->
-<h2 align="center">Hey Coders, I'm Aun Raza</h2>
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=1000&center=true&vCenter=true&width=600&lines=Hey+Coders!+I'm+Aun+Raza;AI+Engineer+%7C+Tech+Writer+%7C+ML+Explorer" />
+</div>
+<h1 align="center" >
+   <b>A U N &nbsp; R A Z A</b> 
+</h1>
 <p align="center"> Machine Learning & AI Engineer |  GenAI Enthusiast |  Cloud Practitioner</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/aun-raza-8b2442251/" target="_blank">
@@ -19,7 +24,6 @@
   </a>
 </p>
 
----
 
 ### 🧑‍💻 About Me
 
@@ -28,8 +32,10 @@ I design and build machine learning systems that turn complex data into clear, a
 I’ve fine-tuned LLMs, deployed full-stack AI apps, and worked across both classical ML and modern Generative AI pipelines. Currently, I'm exploring the intersection of open-source LLMs and retrieval-augmented generation systems.  
 
 > ☁️ Oracle Certified Generative AI Professional | 🎯 Focused on Enterprise-Ready AI
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Crafting+AI-powered+solutions;Exploring+LLMs+%26+Generative+AI;Turning+ideas+into+deployable+models" alt="Typing SVG" />
+</p>
 
----
 
 ### 🚀 Tech Stack
 
@@ -68,7 +74,6 @@ I’ve fine-tuned LLMs, deployed full-stack AI apps, and worked across both clas
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </p>
 
----
 
 ### 🛠️ Notable Projects
 
@@ -97,8 +102,6 @@ I’ve fine-tuned LLMs, deployed full-stack AI apps, and worked across both clas
   - Visualized trends using Matplotlib.
   - Applied dropout regularization to prevent overfitting and improve generalization.
 
----
-
 ### 📜 Certifications
 
 - 🟠 [Oracle Cloud Infrastructure 2025 Generative AI Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=84358782DA14E9D1912F5E3200CDD8974B9BA9AF6A9152CCFB5B810CD4D809A0)
@@ -107,15 +110,12 @@ I’ve fine-tuned LLMs, deployed full-stack AI apps, and worked across both clas
 - 🧮 [Create ML Models with BigQuery ML](https://www.cloudskillsboost.google/public_profiles/a49ab12d-3dbc-4e32-ae16-99111190110a/badges/14006679?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
 - 🚀 [Fall in Love with DeepSeek Hackathon](https://lablab.ai/u/@aunraza/cm8hc2mtc000khg3055t3lm7c)
 
----
-
 ### 📝 Featured Articles
 
 - 📄 [Modern Warfare: from boots to bots](https://medium.com/@syedaunrazarizvi3/modern-warfare-from-boots-to-bots-93d0b537aef0)
 - 🧠 [Alif 1.0: Pakistan’s First Urdu Large Language Model](https://medium.com/@syedaunrazarizvi3/alif-1-0-pakistans-first-urdu-large-language-model-fe3df61aa993)
 - 🤖 [Advancements in AGI: A 2025 Perspective](https://medium.com/@syedaunrazarizvi3/advancements-in-artificial-general-intelligence-agi-a-2025-perspective-f3e95c84ee05)
 
----
 
 ### 📈 GitHub Stats
 
@@ -124,7 +124,6 @@ I’ve fine-tuned LLMs, deployed full-stack AI apps, and worked across both clas
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aunraza19&layout=compact&theme=radical" />
 </p>
 
----
 
 ### 📫 Let’s Connect!
 
