@@ -1,6 +1,6 @@
 <!-- Intro Header -->
-<h2 align="center">Hey 👋, I'm Aun Raza</h2>
-<p align="center">💡 Machine Learning & GenAI Engineer | 🧠 AI Systems Builder | ☁️ Cloud Practitioner</p>
+<h2 align="center">Hey Coders, I'm Aun Raza</h2>
+<p align="center"> Machine Learning & AI Engineer |  GenAI Enthusiast |  Cloud Practitioner</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/aun-raza-8b2442251/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
