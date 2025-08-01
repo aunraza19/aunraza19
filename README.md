@@ -11,6 +11,12 @@
   <a href="https://huggingface.co/aun09" target="_blank">
     <img src="https://img.shields.io/badge/HuggingFace-%23f2c811.svg?style=flat&logo=huggingface&logoColor=black" />
   </a>
+  <a href="https://medium.com/@syedaunrazarizvi3">
+    <img src="https://img.shields.io/badge/Medium-black?logo=medium&style=flat" />
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/a49ab12d-3dbc-4e32-ae16-99111190110a">
+    <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=flat" />
+  </a>
 </p>
 
 ---
@@ -66,25 +72,48 @@ I’ve fine-tuned LLMs, deployed full-stack AI apps, and worked across both clas
 
 ### 🛠️ Notable Projects
 
-- **📈 Stock Price Prediction using LSTM**
-  - Built an LSTM-based forecasting model for stock prices with temporal sequence learning.
-  - Visualized trends using Matplotlib and deployed using Streamlit.
+- **⚖️ GenAI Legal Assistant**
+  - Fine-tuned FLAN-T5-base on 18,949 legal documents, achieving 40% improvement in legal domain summarization.
+  - Integrated BERT-based NER, PyPDF2, and custom tokenization for entity extraction from plain and scanned PDFs. 
+  - Combined LangChain, OpenAI API, and ChromaDB to build a legal RAG-based assistant.
+  - Implemented context-aware document retrieval with FAISS.
+  - Deployed app with PDF upload, entity visualization, and download support.
+  - Deployed fine-tuned model to Hugging Face Hub; fine-tuned model gained 90+ downloads in 1 month.
 
 - **🌍 Multilingual Sentiment Analyzer**
   - Developed a robust ABSA (Aspect-Based Sentiment Analysis) pipeline using PyABSA.
-  - Supported English, Urdu, and Roman Urdu; deployed as a Gradio web app.
+  - Supported multilingual; deployed as a Gradio web app.
+  - Processed five benchmark datasets via pandas pipeline, generating structured predictions and confidence scores.
+  - Deployed Gradio-based web app with robust input validation and error handling.
 
-- **⚖️ GenAI Legal Assistant**
-  - Combined LangChain, OpenAI API, and ChromaDB to build a legal RAG-based assistant.
-  - Implemented context-aware document retrieval with FAISS.
+- **📃 RAG-Based Academic Policy Assistant**
+  - Developed RAG chatbot leveraging LangChain and ChromaDB to automate academic policy Q&A with real-time.
+  -  citation-backed responses reducing student response time from minutes to seconds.
+  -  Integrated Groq API (LLaMA-3-8B) with custom prompt templates and semantic search for context-aware responses with source attribution and page-level citations.
+  -  Deployed scalable Streamlit frontend on Hugging Face Spaces with session caching for fast, multi-user access.
+ 
+- **📈 Stock Price Prediction using LSTM**
+  - Built an LSTM-based forecasting model for stock prices with temporal sequence learning.
+  - Visualized trends using Matplotlib.
+  - Applied dropout regularization to prevent overfitting and improve generalization.
 
 ---
 
 ### 📜 Certifications
 
-- 🥇 **Oracle Cloud Infrastructure 2025 Certified: Generative AI Professional**
-- 🔍 Prompt Engineering for LLMs – DeepLearning.AI
-- 🧠 Microsoft AI & ML Engineer Professional Certificate *(In Progress)*
+- 🟠 [Oracle Cloud Infrastructure 2025 Generative AI Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=84358782DA14E9D1912F5E3200CDD8974B9BA9AF6A9152CCFB5B810CD4D809A0)
+- 🧠 [5-Day Gen AI Intensive (Kaggle)](https://www.kaggle.com/certification/badges/aurrizvi/96)
+- 🤖 [Build and Deploy ML Solutions on Vertex AI](https://www.cloudskillsboost.google/public_profiles/a49ab12d-3dbc-4e32-ae16-99111190110a/badges/14133035?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
+- 🧮 [Create ML Models with BigQuery ML](https://www.cloudskillsboost.google/public_profiles/a49ab12d-3dbc-4e32-ae16-99111190110a/badges/14006679?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
+- 🚀 [Fall in Love with DeepSeek Hackathon](https://lablab.ai/u/@aunraza/cm8hc2mtc000khg3055t3lm7c)
+
+---
+
+### 📝 Featured Articles
+
+- 📄 [Modern Warfare: from boots to bots](https://medium.com/@syedaunrazarizvi3/modern-warfare-from-boots-to-bots-93d0b537aef0)
+- 🧠 [Alif 1.0: Pakistan’s First Urdu Large Language Model](https://medium.com/@syedaunrazarizvi3/alif-1-0-pakistans-first-urdu-large-language-model-fe3df61aa993)
+- 🤖 [Advancements in AGI: A 2025 Perspective](https://medium.com/@syedaunrazarizvi3/advancements-in-artificial-general-intelligence-agi-a-2025-perspective-f3e95c84ee05)
 
 ---
 
@@ -104,5 +133,3 @@ Feel free to reach out if you want to talk AI, collaborate on a project, or just
 - 📨 Email: syedaunrazarizvi3@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/aunraza](https://www.linkedin.com/in/aun-raza-8b2442251/)  
 - 🤗 Hugging Face: [huggingface.co/aunraza09](https://huggingface.co/aunraza09)
-
----
