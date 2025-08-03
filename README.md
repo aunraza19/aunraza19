@@ -29,7 +29,7 @@
 
 I design and build machine learning systems that turn complex data into clear, actionable results. From forecasting stock trends with LSTMs to building multilingual sentiment analyzers and GenAI-powered legal tools, my work focuses on solving real-world problems with clean, scalable AI solutions.
 
-I’ve fine-tuned LLMs, deployed full-stack AI apps, and worked across both classical ML and modern Generative AI pipelines. Currently, I'm exploring the intersection of open-source LLMs and retrieval-augmented generation systems.  
+I’ve fine-tuned LLMs, deployed full-stack AI apps, and worked across both classical ML-DL and modern Generative AI pipelines. Currently, I'm exploring the intersection of open-source LLMs and retrieval-augmented generation systems.  
 
 > ☁️ Oracle Certified Generative AI Professional | 🎯 Focused on Enterprise-Ready AI
 <p align="center">
