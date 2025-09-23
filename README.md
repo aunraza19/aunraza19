@@ -77,6 +77,11 @@ I’ve fine-tuned LLMs, deployed full-stack AI apps, and worked across both clas
 
 ### 🛠️ Notable Projects
 
+- **Underwater Debris Detection & Analysis**
+  - Developed a Gradio web application for real-time underwater debris analysis using YOLOv8 computer vision models.
+  - Implemented object detection and tracking with ONNX and PyTorch, and a custom ByteTrack-based tracker to accurately count unique trash items in videos.
+  - Generated comprehensive outputs including annotated images/videos, statistical summaries, and data visualizations using Pandas, Matplotlib, and Gradio plots.
+
 - **⚖️ GenAI Legal Assistant**
   - Fine-tuned FLAN-T5-base on 18,949 legal documents, achieving 40% improvement in legal domain summarization.
   - Integrated BERT-based NER, PyPDF2, and custom tokenization for entity extraction from plain and scanned PDFs. 
@@ -96,11 +101,6 @@ I’ve fine-tuned LLMs, deployed full-stack AI apps, and worked across both clas
   -  citation-backed responses reducing student response time from minutes to seconds.
   -  Integrated Groq API (LLaMA-3-8B) with custom prompt templates and semantic search for context-aware responses with source attribution and page-level citations.
   -  Deployed scalable Streamlit frontend on Hugging Face Spaces with session caching for fast, multi-user access.
- 
-- **📈 Stock Price Prediction using LSTM**
-  - Built an LSTM-based forecasting model for stock prices with temporal sequence learning.
-  - Visualized trends using Matplotlib.
-  - Applied dropout regularization to prevent overfitting and improve generalization.
 
 ### 📜 Certifications
 
