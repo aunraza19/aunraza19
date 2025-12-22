@@ -1,134 +1,77 @@
-<!-- Intro Header -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=1000&center=true&vCenter=true&width=600&lines=Hey+Coders!+I'm+Aun+Raza;AI+Engineer+%7C+Tech+Writer+%7C+ML+Explorer" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=600&lines=System.init(AI_Engineer);Loading+Neural_Networks...;Target:+Enterprise+GenAI+%26+SaaS;>_+Hello,+World!+I'm+Aun+Raza." alt="Typing SVG" />
+  </a>
 </div>
-<h1 align="center" >
-   <b>A U N &nbsp; R A Z A</b> 
-</h1>
-<p align="center"> Machine Learning & AI Engineer |  GenAI Enthusiast |  Cloud Practitioner</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/aun-raza-8b2442251/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aunraza19&theme=gruvbox&no-frame=true&margin-w=15" alt="aunraza19" />
   </a>
-  <a href="mailto:syedaunrazarizvi3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://huggingface.co/aun09" target="_blank">
-    <img src="https://img.shields.io/badge/HuggingFace-%23f2c811.svg?style=flat&logo=huggingface&logoColor=black" />
-  </a>
-  <a href="https://medium.com/@syedaunrazarizvi3">
-    <img src="https://img.shields.io/badge/Medium-black?logo=medium&style=flat" />
-  </a>
-  <a href="https://www.cloudskillsboost.google/public_profiles/a49ab12d-3dbc-4e32-ae16-99111190110a">
-    <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=flat" />
-  </a>
-</p>
+</div>
 
+---
 
-### 🧑‍💻 About Me
+### 👨‍💻 System Status: *Online*
 
-I design and build machine learning systems that turn complex data into clear, actionable results. From forecasting stock trends with LSTMs to building multilingual sentiment analyzers and GenAI-powered legal tools, my work focuses on solving real-world problems with clean, scalable AI solutions.
+[cite_start]I am an **AI Engineer @ SIBERNETICS** [cite: 16, 17] [cite_start]building multi-tenant SaaS platforms and RAG pipelines that handle concurrent requests with <5s latency[cite: 18, 24]. [cite_start]When I'm not deploying agents using **Google ADK**[cite: 23], I'm competing in global hackathons or fine-tuning LLMs.
 
-I’ve fine-tuned LLMs, deployed full-stack AI apps, and worked across both classical ML-DL and modern Generative AI pipelines. Currently, I'm exploring the intersection of open-source LLMs and retrieval-augmented generation systems.  
+* [cite_start]**Current Focus:** Agentic Workflows & Enterprise RAG[cite: 19, 22].
+* [cite_start]**Hackathon Rank:** Top 10% Global @ NASA Space Apps 2024[cite: 61].
+* [cite_start]**Certification:** Oracle Cloud Infrastructure 2025 Generative AI Professional[cite: 52].
 
-> ☁️ Oracle Certified Generative AI Professional | 🎯 Focused on Enterprise-Ready AI
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Crafting+AI-powered+solutions;Exploring+LLMs+%26+Generative+AI;Turning+ideas+into+deployable+models" alt="Typing SVG" />
-</p>
+---
 
+### 🛠️ The Arsenal (Tech Stack)
 
-### 🚀 Tech Stack
+<div align="center">
 
-#### 👨‍💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white" />
-</p>
+| **Core** | **AI / ML** | **GenAI / Agents** | **Cloud / DevOps** |
+| :---: | :---: | :---: | :---: |
+| ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![LangChain](https://img.shields.io/badge/LANGCHAIN-000000?style=for-the-badge&logo=langchain&logoColor=white) | ![GCP](https://img.shields.io/badge/GOOGLE_CLOUD-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) |
+| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OPENAI-412991?style=for-the-badge&logo=openai&logoColor=white) | ![Oracle](https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white) |
+| ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=opencv&logoColor=black) | ![HuggingFace](https://img.shields.io/badge/HUGGINGFACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) | ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
-#### 🤖 Machine Learning & Deep Learning
-<p>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
-</p>
+</div>
 
-#### 🧠 NLP & GenAI Frameworks
-<p>
-  <img src="https://img.shields.io/badge/HuggingFace-%23f2c811.svg?style=flat&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-0091EA?style=flat" />
-  <img src="https://img.shields.io/badge/PyABSA-ff6600?style=flat" />
-  <img src="https://img.shields.io/badge/ChromaDB-6D4C41?style=flat" />
-</p>
+---
 
-#### ☁️ Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vertex_AI-1a73e8?style=flat" />
-  <img src="https://img.shields.io/badge/BigQuery-3367D6?style=flat&logo=google-bigquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-</p>
+### 📊 Coding Activity
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aunraza19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aunraza19&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
+</div>
 
-### 🛠️ Notable Projects
+<div align="center">
+  <img src="https://github.com/aunraza19/aunraza19/blob/output/github-contribution-grid-snake.svg" alt="snake contribution" />
+</div>
 
-- **Underwater Debris Detection & Analysis**
-  - Developed a Gradio web application for real-time underwater debris analysis using YOLOv8 computer vision models.
-  - Implemented object detection and tracking with ONNX and PyTorch, and a custom ByteTrack-based tracker to accurately count unique trash items in videos.
-  - Generated comprehensive outputs including annotated images/videos, statistical summaries, and data visualizations using Pandas, Matplotlib, and Gradio plots.
+---
 
-- **⚖️ GenAI Legal Assistant**
-  - Fine-tuned FLAN-T5-base on 18,949 legal documents, achieving 40% improvement in legal domain summarization.
-  - Integrated BERT-based NER, PyPDF2, and custom tokenization for entity extraction from plain and scanned PDFs. 
-  - Combined LangChain, OpenAI API, and ChromaDB to build a legal RAG-based assistant.
-  - Implemented context-aware document retrieval with FAISS.
-  - Deployed app with PDF upload, entity visualization, and download support.
-  - Deployed fine-tuned model to Hugging Face Hub; fine-tuned model gained 90+ downloads in 1 month.
+### 🏆 Hall of Fame
 
-- **🌍 Multilingual Sentiment Analyzer**
-  - Developed a robust ABSA (Aspect-Based Sentiment Analysis) pipeline using PyABSA.
-  - Supported multilingual; deployed as a Gradio web app.
-  - Processed five benchmark datasets via pandas pipeline, generating structured predictions and confidence scores.
-  - Deployed Gradio-based web app with robust input validation and error handling.
+| Award / Cert | Details |
+| :--- | :--- |
+| **🥇 Top 10% Global** | [cite_start]**NASA Space Apps 2024 (Project NEXA)** [cite: 35, 61][cite_start]<br>Built an Exoplanet Discovery Platform using CatBoost & TabNet. [cite: 38] |
+| **🏅 Top 10 Finalist** | [cite_start]**AKU SIMPACT 2025 (Lungs Care AI)** [cite: 34, 58][cite_start]<br>Multi-modal disease detection using RAG & Computer Vision. [cite: 30, 31] |
+| **📜 Oracle Certified** | [cite_start]**Generative AI Professional (2025)** [cite: 52]<br>Validated expertise in OCI GenAI service and LLM deployment. |
+| **📜 Deep Learning** | [cite_start]**Deep Learning Specialization** [cite: 54]<br>Certification by Andrew Ng (Coursera). |
 
-- **📃 RAG-Based Academic Policy Assistant**
-  - Developed RAG chatbot leveraging LangChain and ChromaDB to automate academic policy Q&A with real-time.
-  -  citation-backed responses reducing student response time from minutes to seconds.
-  -  Integrated Groq API (LLaMA-3-8B) with custom prompt templates and semantic search for context-aware responses with source attribution and page-level citations.
-  -  Deployed scalable Streamlit frontend on Hugging Face Spaces with session caching for fast, multi-user access.
+---
 
-### 📜 Certifications
+### 🚧 Notable Builds
 
-- 🟠 [Oracle Cloud Infrastructure 2025 Generative AI Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=84358782DA14E9D1912F5E3200CDD8974B9BA9AF6A9152CCFB5B810CD4D809A0)
-- 🧠 [5-Day Gen AI Intensive (Kaggle)](https://www.kaggle.com/certification/badges/aurrizvi/96)
-- 🤖 [Build and Deploy ML Solutions on Vertex AI](https://www.cloudskillsboost.google/public_profiles/a49ab12d-3dbc-4e32-ae16-99111190110a/badges/14133035?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
-- 🧮 [Create ML Models with BigQuery ML](https://www.cloudskillsboost.google/public_profiles/a49ab12d-3dbc-4e32-ae16-99111190110a/badges/14006679?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
-- 🚀 [Fall in Love with DeepSeek Hackathon](https://lablab.ai/u/@aunraza/cm8hc2mtc000khg3055t3lm7c)
+| **Project** | **The Tech (Nerdy Stuff)** | **Status** |
+| :--- | :--- | :--- |
+| **SaaS AI Chat Platform** | [cite_start]`Multi-tenant` `Google ADK` `Super-Agent Routing` [cite: 18, 23] | 🟢 Production |
+| **Underwater Debris AI** | [cite_start]`YOLOv8` `ByteTrack` `ONNX Runtime` `Real-time Segmentation` [cite: 42] | 🟡 Research |
+| **Legal GenAI Assistant** | `FLAN-T5` `FAISS` `BERT-NER` `PDF Parsing` | 🟢 Released |
 
-### 📝 Featured Articles
+---
 
-- 📄 [Modern Warfare: from boots to bots](https://medium.com/@syedaunrazarizvi3/modern-warfare-from-boots-to-bots-93d0b537aef0)
-- 🧠 [Alif 1.0: Pakistan’s First Urdu Large Language Model](https://medium.com/@syedaunrazarizvi3/alif-1-0-pakistans-first-urdu-large-language-model-fe3df61aa993)
-- 🤖 [Advancements in AGI: A 2025 Perspective](https://medium.com/@syedaunrazarizvi3/advancements-in-artificial-general-intelligence-agi-a-2025-perspective-f3e95c84ee05)
-
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aunraza19&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aunraza19&layout=compact&theme=radical" />
-</p>
-
-
-### 📫 Let’s Connect!
-
-Feel free to reach out if you want to talk AI, collaborate on a project, or just say hi!
-
-- 📨 Email: syedaunrazarizvi3@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/aunraza](https://www.linkedin.com/in/aun-raza-8b2442251/)  
-- 🤗 Hugging Face: [huggingface.co/aunraza09](https://huggingface.co/aunraza09)
+<div align="center">
+  <p><b>Connect with me:</b></p>
+  <a href="https://www.linkedin.com/in/aun-raza-8b2442251/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://huggingface.co/aun09"><img src="https://img.shields.io/badge/HuggingFace-Follow-yellow?style=social&logo=huggingface" alt="HuggingFace"></a>
+</div>
