@@ -75,33 +75,6 @@ I’ve fine-tuned LLMs, deployed full-stack AI apps, and worked across both clas
 </p>
 
 
-### 🛠️ Notable Projects
-
-- **Underwater Debris Detection & Analysis**
-  - Developed a Gradio web application for real-time underwater debris analysis using YOLOv8 computer vision models.
-  - Implemented object detection and tracking with ONNX and PyTorch, and a custom ByteTrack-based tracker to accurately count unique trash items in videos.
-  - Generated comprehensive outputs including annotated images/videos, statistical summaries, and data visualizations using Pandas, Matplotlib, and Gradio plots.
-
-- **⚖️ GenAI Legal Assistant**
-  - Fine-tuned FLAN-T5-base on 18,949 legal documents, achieving 40% improvement in legal domain summarization.
-  - Integrated BERT-based NER, PyPDF2, and custom tokenization for entity extraction from plain and scanned PDFs. 
-  - Combined LangChain, OpenAI API, and ChromaDB to build a legal RAG-based assistant.
-  - Implemented context-aware document retrieval with FAISS.
-  - Deployed app with PDF upload, entity visualization, and download support.
-  - Deployed fine-tuned model to Hugging Face Hub; fine-tuned model gained 90+ downloads in 1 month.
-
-- **🌍 Multilingual Sentiment Analyzer**
-  - Developed a robust ABSA (Aspect-Based Sentiment Analysis) pipeline using PyABSA.
-  - Supported multilingual; deployed as a Gradio web app.
-  - Processed five benchmark datasets via pandas pipeline, generating structured predictions and confidence scores.
-  - Deployed Gradio-based web app with robust input validation and error handling.
-
-- **📃 RAG-Based Academic Policy Assistant**
-  - Developed RAG chatbot leveraging LangChain and ChromaDB to automate academic policy Q&A with real-time.
-  -  citation-backed responses reducing student response time from minutes to seconds.
-  -  Integrated Groq API (LLaMA-3-8B) with custom prompt templates and semantic search for context-aware responses with source attribution and page-level citations.
-  -  Deployed scalable Streamlit frontend on Hugging Face Spaces with session caching for fast, multi-user access.
-
 ### 📜 Certifications
 
 - 🟠 [Oracle Cloud Infrastructure 2025 Generative AI Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=84358782DA14E9D1912F5E3200CDD8974B9BA9AF6A9152CCFB5B810CD4D809A0)
