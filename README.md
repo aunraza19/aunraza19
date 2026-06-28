@@ -1,29 +1,31 @@
+<!-- TOP WAVE -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
+
 <!-- Animated Intro -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1800&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Aun+Raza;AI+Engineer+%7C+GenAI+%7C+Multimodal+Systems;Building+RAG+Pipelines+%26+AI+Agents;Turning+Ideas+into+Production+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1800&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Aun+Raza;AI+Engineer+%7C+GenAI+%7C+Multimodal+Systems;RAG+Pipelines+%7C+AI+Agents+%7C+Real-Time+AI;Building+Production-Ready+AI+Systems" />
 </div>
 
-<h1 align="center">
-  <b>A U N &nbsp; R A Z A</b>
-</h1>
+<h1 align="center"><b>A U N &nbsp; R A Z A</b></h1>
 
 <p align="center">
-  Machine Learning Engineer • Generative AI • Systems Builder
+  Machine Learning Engineer • Generative AI • Systems Architect
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aun-raza-8b2442251/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:syedaunrazarizvi3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://huggingface.co/aun09">
-    <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=flat&logo=huggingface&logoColor=black"/>
+    <img src="https://img.shields.io/badge/HuggingFace-111111?style=for-the-badge&logo=huggingface"/>
   </a>
   <a href="https://medium.com/@syedaunrazarizvi3">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Medium-111111?style=for-the-badge&logo=medium"/>
   </a>
 </p>
 
@@ -38,9 +40,7 @@ My work spans:
 * Multimodal AI systems
 * Retrieval-Augmented Generation pipelines
 * AI agents and orchestration frameworks
-* Applied deep learning across vision, NLP, and structured data
-
-I focus on building systems that are not just accurate, but deployable, scalable, and reliable.
+* Deep learning across vision, NLP, and structured data
 
 ---
 
@@ -50,23 +50,21 @@ I focus on building systems that are not just accurate, but deployable, scalable
 
 Feb 2026 – Present
 
-* Built a real-time multimodal vehicle inspection system using GPT Realtime API
-* Designed low-latency streaming architecture using WebRTC and WebSockets
-* Reduced operational cost by 25 percent via FSM-based orchestration
-* Enabled OCR, damage detection, and auto form filling in real-time
-* Delivered multilingual AI workflows across multiple regions
+* Real-time multimodal inspection system using GPT Realtime API
+* WebRTC + WebSockets streaming architecture
+* Reduced cost by 25 percent via orchestration optimization
+* OCR + damage detection + auto form filling pipeline
+* Multilingual AI deployment
 
 ---
 
 ### Junior AI Engineer — SIBERNETICS LLC
 
-Sept 2025 – Feb 2026
-
-* Built a multi-tenant SaaS AI chat platform from scratch
-* Engineered a production-grade RAG pipeline
-* Designed modular agent orchestration system with multiple agent types
-* Developed backend with Flask and PostgreSQL handling concurrent AI workloads
-* Built document ingestion, API agent, and spreadsheet AI systems
+* Multi-tenant AI SaaS platform
+* Production RAG system
+* Agent orchestration framework
+* Flask + PostgreSQL backend
+* Document ingestion + API agent
 
 ---
 
@@ -74,26 +72,15 @@ Sept 2025 – Feb 2026
 
 ### Lungs Care AI
 
-* Multimodal deep learning system combining X-ray and audio data
-* Integrated LLM with RAG for medical explanation
-* Built agent-based processing pipeline
-* Recognized Top 10 at SIMPACT 2025
+Multimodal system using X-ray + audio with LLM explanations
 
----
+### NEXA Exoplanet AI
 
-### NEXA — AI Exoplanet Discovery Platform
-
-* Unified 21k plus NASA records into a single dataset
-* Built CatBoost and TabNet ensemble model
-* Developed AI system to explain predictions in human-readable form
-
----
+21k NASA dataset + ensemble modeling + explainable AI
 
 ### Underwater Trash Detection
 
-* YOLOv8 segmentation with object tracking
-* Built analytics pipeline for environmental monitoring
-* Delivered full inference to insight workflow
+YOLOv8 + tracking + analytics pipeline
 
 ---
 
@@ -101,25 +88,59 @@ Sept 2025 – Feb 2026
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-111111?style=flat&logo=python"/>
-<img src="https://img.shields.io/badge/PyTorch-111111?style=flat&logo=pytorch"/>
-<img src="https://img.shields.io/badge/TensorFlow-111111?style=flat&logo=tensorflow"/>
-<img src="https://img.shields.io/badge/Transformers-111111?style=flat"/>
-<img src="https://img.shields.io/badge/LangChain-111111?style=flat"/>
-<img src="https://img.shields.io/badge/RAG-111111?style=flat"/>
-<img src="https://img.shields.io/badge/YOLOv8-111111?style=flat"/>
-<img src="https://img.shields.io/badge/GCP-111111?style=flat&logo=googlecloud"/>
-<img src="https://img.shields.io/badge/OCI-111111?style=flat&logo=oracle"/>
+<img src="https://img.shields.io/badge/Python-0f2027?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/SQL-0f2027?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/Java-0f2027?style=for-the-badge&logo=java"/>
+<img src="https://img.shields.io/badge/C++-0f2027?style=for-the-badge&logo=cplusplus"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/PyTorch-0f2027?style=for-the-badge&logo=pytorch"/>
+<img src="https://img.shields.io/badge/TensorFlow-0f2027?style=for-the-badge&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/Scikit--learn-0f2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XGBoost-0f2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CatBoost-0f2027?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Transformers-0f2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-0f2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-0f2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-0f2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-0f2027?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Flask-0f2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0f2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WebSockets-0f2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WebRTC-0f2027?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/GCP-0f2027?style=for-the-badge&logo=googlecloud"/>
+<img src="https://img.shields.io/badge/OCI-0f2027?style=for-the-badge&logo=oracle"/>
+<img src="https://img.shields.io/badge/Azure-0f2027?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## What I'm Working On
+## Activity
 
-* Open-source LLM based RAG systems
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aunraza19&theme=dark&hide_border=true"/>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aunraza19&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+## What I’m Building
+
+* Open-source LLM RAG systems
 * Multi-agent orchestration workflows
-* Real-time multimodal AI applications
+* Real-time multimodal AI
 
 ---
 
@@ -188,10 +209,9 @@ Sept 2025 – Feb 2026
 
 * Email: [syedaunrazarizvi3@gmail.com](mailto:syedaunrazarizvi3@gmail.com)
 * LinkedIn: https://linkedin.com/in/aun-raza
-* GitHub: https://github.com/aunraza19
 
 ---
 
-<p align="center">
-  Building systems that move from prototype to production
-</p>
+<!-- BOTTOM WAVE -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
