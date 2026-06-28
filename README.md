@@ -1,9 +1,7 @@
 <!-- TOP WAVE -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
 
 <!-- Animated Intro -->
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1800&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Aun+Raza;AI+Engineer+%7C+GenAI+%7C+Multimodal+Systems;RAG+Pipelines+%7C+AI+Agents+%7C+Real-Time+AI;Building+Production-Ready+AI+Systems" />
 </div>
@@ -36,92 +34,113 @@
 I design and deploy production-grade AI systems focused on real-world impact.
 
 My work spans:
+- Multimodal AI systems  
+- Retrieval-Augmented Generation pipelines  
+- AI agents and orchestration frameworks  
+- Deep learning across vision, NLP, and structured data  
 
-* Multimodal AI systems
-* Retrieval-Augmented Generation pipelines
-* AI agents and orchestration frameworks
-* Deep learning across vision, NLP, and structured data
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00F7FF&height=2"/>
+</p>
 
 ---
 
 ## Experience
 
-### Associate AI Engineer — Krank Tech
+### Associate AI Engineer — Krank Tech  
+Feb 2026 – Present  
 
-Feb 2026 – Present
-
-* Real-time multimodal inspection system using GPT Realtime API
-* WebRTC + WebSockets streaming architecture
-* Reduced cost by 25 percent via orchestration optimization
-* OCR + damage detection + auto form filling pipeline
-* Multilingual AI deployment
+- Real-time multimodal inspection system using GPT Realtime API  
+- WebRTC + WebSockets streaming architecture  
+- Reduced operational cost by 25 percent via orchestration optimization  
+- OCR + damage detection + automated workflows  
+- Multilingual AI deployment  
 
 ---
 
-### Junior AI Engineer — SIBERNETICS LLC
+### Junior AI Engineer — SIBERNETICS LLC  
 
-* Multi-tenant AI SaaS platform
-* Production RAG system
-* Agent orchestration framework
-* Flask + PostgreSQL backend
-* Document ingestion + API agent
+- Multi-tenant AI SaaS platform  
+- Production-grade RAG pipeline  
+- Agent orchestration system  
+- Flask + PostgreSQL backend  
+- Document ingestion + API agent  
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00F7FF&height=2"/>
+</p>
 
 ---
 
 ## Projects
 
-### Lungs Care AI
+### Lungs Care AI  
+Multimodal system combining X-ray and audio with LLM explanations  
 
-Multimodal system using X-ray + audio with LLM explanations
+### NEXA Exoplanet AI  
+21k NASA dataset with ensemble modeling and explainable AI  
 
-### NEXA Exoplanet AI
+### Underwater Trash Detection  
+YOLOv8 segmentation with tracking and analytics pipeline  
 
-21k NASA dataset + ensemble modeling + explainable AI
-
-### Underwater Trash Detection
-
-YOLOv8 + tracking + analytics pipeline
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00F7FF&height=2"/>
+</p>
 
 ---
 
-## Tech Stack
+## Tech Radar
 
-<p align="center">
-
+### Core Languages
+<p>
 <img src="https://img.shields.io/badge/Python-0f2027?style=for-the-badge&logo=python"/>
 <img src="https://img.shields.io/badge/SQL-0f2027?style=for-the-badge&logo=postgresql"/>
 <img src="https://img.shields.io/badge/Java-0f2027?style=for-the-badge&logo=java"/>
 <img src="https://img.shields.io/badge/C++-0f2027?style=for-the-badge&logo=cplusplus"/>
+</p>
 
-<br>
-
+### Machine Learning & Deep Learning
+<p>
 <img src="https://img.shields.io/badge/PyTorch-0f2027?style=for-the-badge&logo=pytorch"/>
 <img src="https://img.shields.io/badge/TensorFlow-0f2027?style=for-the-badge&logo=tensorflow"/>
 <img src="https://img.shields.io/badge/Scikit--learn-0f2027?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/XGBoost-0f2027?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CatBoost-0f2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LSTM-0f2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YOLOv8-0f2027?style=for-the-badge"/>
+</p>
 
-<br>
-
+### NLP & Generative AI
+<p>
 <img src="https://img.shields.io/badge/Transformers-0f2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-0f2027?style=for-the-badge&logo=huggingface"/>
 <img src="https://img.shields.io/badge/LangChain-0f2027?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangGraph-0f2027?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-0f2027?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HuggingFace-0f2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-0f2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-0f2027?style=for-the-badge"/>
+</p>
 
-<br>
-
+### Systems & Backend
+<p>
 <img src="https://img.shields.io/badge/Flask-0f2027?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0f2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0f2027?style=for-the-badge&logo=postgresql"/>
 <img src="https://img.shields.io/badge/WebSockets-0f2027?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/WebRTC-0f2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API_Design-0f2027?style=for-the-badge"/>
+</p>
 
-<br>
-
+### Cloud & Infrastructure
+<p>
 <img src="https://img.shields.io/badge/GCP-0f2027?style=for-the-badge&logo=googlecloud"/>
 <img src="https://img.shields.io/badge/OCI-0f2027?style=for-the-badge&logo=oracle"/>
 <img src="https://img.shields.io/badge/Azure-0f2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vertex_AI-0f2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BigQuery-0f2027?style=for-the-badge"/>
+</p>
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00F7FF&height=2"/>
 </p>
 
 ---
@@ -129,22 +148,32 @@ YOLOv8 + tracking + analytics pipeline
 ## Activity
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aunraza19&theme=github_dark"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aunraza19&theme=dark&hide_border=true"/>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aunraza19&theme=react-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00F7FF&height=2"/>
 </p>
 
 ---
 
 ## What I’m Building
 
-* Open-source LLM RAG systems
-* Multi-agent orchestration workflows
-* Real-time multimodal AI
+- Open-source LLM-based RAG systems  
+- Multi-agent orchestration workflows  
+- Real-time multimodal AI applications  
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00F7FF&height=2"/>
+</p>
 
 ---
 
-### 🏆 Certifications & Achievements
+##  Certifications & Achievements
 
 <table align="center">
 <tr>
@@ -207,11 +236,8 @@ YOLOv8 + tracking + analytics pipeline
 
 ## Contact
 
-* Email: [syedaunrazarizvi3@gmail.com](mailto:syedaunrazarizvi3@gmail.com)
-* LinkedIn: https://linkedin.com/in/aun-raza
-
----
+- Email: syedaunrazarizvi3@gmail.com  
+- LinkedIn: https://linkedin.com/in/aun-raza  
 
 <!-- BOTTOM WAVE -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
