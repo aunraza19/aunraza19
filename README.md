@@ -27,67 +27,11 @@
   </a>
 </p>
 
----
-
-## About
-
-I design and deploy production-grade AI systems focused on real-world impact.
-
-My work spans:
-- Multimodal AI systems  
-- Retrieval-Augmented Generation pipelines  
-- AI agents and orchestration frameworks  
-- Deep learning across vision, NLP, and structured data  
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00F7FF&height=2"/>
 </p>
 
----
-
-## Experience
-
-### Associate AI Engineer — Krank Tech  
-Feb 2026 – Present  
-
-- Real-time multimodal inspection system using GPT Realtime API  
-- WebRTC + WebSockets streaming architecture  
-- Reduced operational cost by 25 percent via orchestration optimization  
-- OCR + damage detection + automated workflows  
-- Multilingual AI deployment  
-
----
-
-### Junior AI Engineer — SIBERNETICS LLC  
-
-- Multi-tenant AI SaaS platform  
-- Production-grade RAG pipeline  
-- Agent orchestration system  
-- Flask + PostgreSQL backend  
-- Document ingestion + API agent  
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00F7FF&height=2"/>
-</p>
-
----
-
-## Projects
-
-### Lungs Care AI  
-Multimodal system combining X-ray and audio with LLM explanations  
-
-### NEXA Exoplanet AI  
-21k NASA dataset with ensemble modeling and explainable AI  
-
-### Underwater Trash Detection  
-YOLOv8 segmentation with tracking and analytics pipeline  
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00F7FF&height=2"/>
-</p>
-
----
 
 ## Tech Radar
 
@@ -143,35 +87,30 @@ YOLOv8 segmentation with tracking and analytics pipeline
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00F7FF&height=2"/>
 </p>
 
+## Experience
+
+### Associate AI Engineer — Krank Tech  
+Feb 2026 – Present  
+
+- Real-time multimodal inspection system using GPT Realtime API  
+- WebRTC + WebSockets streaming architecture  
+- Reduced operational cost by 25 percent via orchestration optimization  
+- OCR + damage detection + automated workflows  
+- Multilingual AI deployment  
+
 ---
 
-## Activity
+### Junior AI Engineer — SIBERNETICS LLC  
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aunraza19&theme=github_dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aunraza19&theme=dark&hide_border=true"/>
-</p>
+- Multi-tenant AI SaaS platform  
+- Production-grade RAG pipeline  
+- Agent orchestration system  
+- Flask + PostgreSQL backend  
+- Document ingestion + API agent  
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00F7FF&height=2"/>
 </p>
-
----
-
-## What I’m Building
-
-- Open-source LLM-based RAG systems  
-- Multi-agent orchestration workflows  
-- Real-time multimodal AI applications  
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00F7FF&height=2"/>
-</p>
-
----
 
 ##  Certifications & Achievements
 
@@ -232,7 +171,33 @@ YOLOv8 segmentation with tracking and analytics pipeline
 <i>✨ Click any certificate to verify</i>
 </p>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00F7FF&height=2"/>
+</p>
+
+## Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aunraza19&theme=github_dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aunraza19&theme=dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00F7FF&height=2"/>
+</p>
+
+## What I’m Building
+
+- Open-source LLM-based RAG systems  
+- Multi-agent orchestration workflows  
+- Real-time multimodal AI applications  
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00F7FF&height=2"/>
+</p>
 
 ## Contact
 
