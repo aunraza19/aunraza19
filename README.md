@@ -227,6 +227,17 @@ Feb 2026 – Present
 </a>
 </td>
 </tr>
+
+<tr>
+<td align="center">
+<a href="https://www.credly.com/badges/24e58179-34c7-4d46-adb8-8e961510a3a9/public_url">
+<img src="Certificates/observability-for-ai-agents.png" width="230"/>
+</a>
+</td>
+
+<td></td>
+<td></td>
+</tr>
 </table>
 
 <p align="center">
