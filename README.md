@@ -164,8 +164,57 @@ Feb 2026 – Present
 </a>
 </td>
 
-<td></td>
-<td></td>
+<td align="center">
+<a href="https://learn.mongodb.com/c/1FA8nVv4QuuR0l7LmeLJEQ">
+<img src="Certificates/MongoDB%20GenAI%20Developer.png" width="230"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.credly.com/badges/1ad8a3b9-6dbd-487c-a5f2-fff182acfb81/public_url">
+<img src="Certificates/building-ai-agents-with-mongodb.png" width="230"/>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<a href="https://www.credly.com/badges/1cfb68d1-8715-4cc1-ad5c-5e020f2c9c89/public_url">
+<img src="Certificates/building-rag-apps-using-mongodb.png" width="230"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.credly.com/badges/6cd31421-410d-4969-8346-8a07cfd39f3c/public_url">
+<img src="Certificates/building-ai-powered-search-with-mongodb-vector-sear.1.png" width="230"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.credly.com/badges/d66ddeef-4114-4fbf-884a-d4904280a333/public_url">
+<img src="Certificates/memory-for-ai-applications-with-mongodb.png" width="230"/>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<a href="https://www.credly.com/badges/55c6448a-93a4-4d40-a126-5f8fc01f4f1a/public_url">
+<img src="Certificates/governance-for-ai-agents-with-mongodb.png" width="230"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.credly.com/badges/85531c26-ee77-4cd0-bf04-b13cca32c083/public_url">
+<img src="Certificates/retrieval-evaluation.png" width="230"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.credly.com/badges/d665f529-0bc5-4d8c-b8ce-8893059a419b/public_url">
+<img src="Certificates/ai-and-innovation-how-mongodb-enables-a-resilient-a.png" width="230"/>
+</a>
+</td>
 </tr>
 </table>
 
