@@ -65,12 +65,16 @@
 <img src="https://img.shields.io/badge/RAG-0f2027?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FAISS-0f2027?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ChromaDB-0f2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector_Search-0f2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI_Realtime_API-0f2027?style=for-the-badge&logo=openai"/>
+<img src="https://img.shields.io/badge/Text--to--SQL-0f2027?style=for-the-badge"/>
 </p>
 
 ### Systems & Backend
 <p>
 <img src="https://img.shields.io/badge/Flask-0f2027?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PostgreSQL-0f2027?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/MongoDB-0f2027?style=for-the-badge&logo=mongodb"/>
 <img src="https://img.shields.io/badge/WebSockets-0f2027?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/WebRTC-0f2027?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/API_Design-0f2027?style=for-the-badge"/>
@@ -94,11 +98,18 @@
 ### Associate AI Engineer — Krank Tech  
 Feb 2026 – Present  
 
-- Real-time multimodal inspection system using GPT Realtime API  
-- WebRTC + WebSockets streaming architecture  
-- Reduced operational cost by 25 percent via orchestration optimization  
-- OCR + damage detection + automated workflows  
-- Multilingual AI deployment  
+**Real-Time Multimodal Vehicle Inspection Pipeline**
+- Built a real-time vehicle inspection pipeline on GPT Realtime API with duplex voice, computer vision, and tool-calling  
+- Low-latency streaming over WebRTC (client ↔ GPT) and WebSockets (backend ↔ client) with sub-second responses  
+- FSM-based token orchestration across audio, vision, and text.
+- Video frames injected into LLM context for live OCR, damage detection, and form auto-filling  
+- Full duplex support in Spanish, Italian, German, and Portuguese  
+
+**Inspeq AI Copilot — Agentic Assistant for Fleet Operations**
+- Multi-agent supervisor on LangGraph routing requests to retrieval, analytics, and operational agents in a single turn  
+- Permission-scoped text-to-SQL with row-level tenancy via policy-generated CTEs, SQL AST validation, and SELECT-only credentials  
+- Human-in-the-loop approvals via LangGraph interrupts with exactly-once mutations across resumable sessions  
+- Authorization-parity harness diffing agent SQL against REST API responses, gating deploys on zero leaks (400+ tests)   
 
 ---
 
